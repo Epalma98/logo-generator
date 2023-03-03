@@ -18,12 +18,12 @@ Load up the repo on preferred code editor, then open the integrated terminal by 
 
 ## Screenshots
 
-![Screenshot](/images/run_node.png) "Run Node in the terminal"
-![Screenshot](/images/user_inputs.png) "User inputs"
-![Screenshot](/images/choices.png) "User choice selection"
-![Screenshot](/images/generated_file.png) "Generated markdown file"
+![Screenshot](/images/user_input_logo.png) "User inputs for svg logo"
+![Screenshot](/images/generated_message.png) "Success message"
+![Screenshot](/images/svg_file.png) "Generated svg file"
+![Screenshot](/images/svg_logo.png) "Generated svg logo"
 
 ## Questions
 How to get in contact with me:
 * Github: https://github.com/epalma98
-* Github Repo: 
+* Github Repo: https://github.com/Epalma98/logo-generator 
