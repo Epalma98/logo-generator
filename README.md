@@ -27,3 +27,4 @@ Load up the repo on preferred code editor, then open the integrated terminal by 
 How to get in contact with me:
 * Github: https://github.com/epalma98
 * Github Repo: https://github.com/Epalma98/logo-generator 
+* Video Walkthrough: https://drive.google.com/file/d/1IHgwpQAIeQPoYXWlEqqBaS3PbZTv1qva/view?usp=sharing 
