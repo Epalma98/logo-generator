@@ -37,6 +37,8 @@
         fs.writeFile('./examples/logo.svg', svg, function(err) {
             if(err) {
                 console.log('Could not save file')
+            } else {
+                console.log("Generated logo.svg!")
             }
         })
     })
